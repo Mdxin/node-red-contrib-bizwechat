@@ -97,7 +97,7 @@ const getSendTemplate = async (req) => {
 
 <body>
   <!-- Begin page content -->
-  <div class="container">
+  <div class="container my-2">
     <div class="page-header">
       <h1>${title}</h1>
     </div>
