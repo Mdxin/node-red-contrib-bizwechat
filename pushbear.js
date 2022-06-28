@@ -40,15 +40,11 @@ const getSendTemplate = async (req) => {
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <link rel="icon" type="image/png" href="https://pushbear.ftqq.com/assets/img/pbicon.small.png">
+  <!--<link rel="icon" type="image/png" href="https://pushbear.ftqq.com/assets/img/pbicon.small.png">-->
   <title>消息阅读 | PushBear</title>
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.2.0/dist/css/bootstrap.min.css">
-
-
-  <link rel="stylesheet" type="text/css" href="https://pushbear.ftqq.com/assets/css/app.css">
-
-  <link rel="stylesheet" type="text/css" href="https://pushbear.ftqq.com/assets/css/yue.css">
+  <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/5.1.3/css/bootstrap.min.css"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
